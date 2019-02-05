@@ -1,5 +1,7 @@
 # MyMVVM
 
+[![CircleCI](https://circleci.com/gh/prokash-sarkar/MyMVVM/tree/master.svg?style=svg)](https://circleci.com/gh/prokash-sarkar/MyMVVM/tree/master)
+
 A simple Android Application written in Java to demonstrate MVVM architecture. This application uses the latest and greatest libraries to provide a modern, flexible, and testable solution. Major components used in this application are:
 
   - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) (ViewModel + Live Data)
