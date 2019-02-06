@@ -2,6 +2,10 @@
 
 [![CircleCI](https://circleci.com/gh/prokash-sarkar/MyMVVM/tree/master.svg?style=svg)](https://circleci.com/gh/prokash-sarkar/MyMVVM/tree/master)
 
+### Specs
+[![API](https://img.shields.io/badge/API-15%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=15)
+
+
 A simple Android Application written in Java to demonstrate MVVM architecture. This application uses the latest and greatest libraries to provide a modern, flexible, and testable solution. Major components used in this application are:
 
   - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) (ViewModel + Live Data)
@@ -24,7 +28,7 @@ In an addition it also uses CircleCI to make continuous integration.
 ### Todos
 
  - Add new features
- - Refactor Code
+ - Refactor code
  - Write more tests
 
 License
