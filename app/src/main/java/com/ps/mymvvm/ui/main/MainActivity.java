@@ -25,7 +25,7 @@ public class MainActivity extends BaseActivity {
 
     @Override
     protected int toolbarTitle() {
-        return R.string.search_result;
+        return R.string.activity_main;
     }
 
     private String username;

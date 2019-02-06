@@ -40,7 +40,7 @@ public class MainActivityTest {
     @Test
     public void whenTheActivityIsCreatedThenTheTitleIsSet() {
         onView(allOf(instanceOf(TextView.class), withParent(withId(R.id.toolbar))))
-                .check(matches(withText(R.string.app_name)));
+                .check(matches(withText(R.string.activity_main)));
     }
 
 }

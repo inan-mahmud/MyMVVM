@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">MyMVVM</string>
     <string name="error_loading_data">An Error Occurred While Loading Data!</string>
-    <string name="lookup_user">Lookup User</string>
+    <string name="activity_lookup">Lookup User</string>
     <string name="lookup_repositories">Lookup repositories by a user</string>
     <string name="hint_username">Enter a username</string>
     <string name="lookup">Lookup</string>
     <string name="error_username_too_short">Username is too short!</string>
-    <string name="search_result">Search Result</string>
+    <string name="activity_main">Search Result</string>
     <string name="repo_name">Repo Name</string>
     <string name="repo_description">Repo Description</string>
     <string name="forks">Forks</string>

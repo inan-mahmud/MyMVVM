@@ -43,7 +43,7 @@ public class LookupActivity extends BaseActivity {
 
     @Override
     protected int toolbarTitle() {
-        return R.string.lookup_user;
+        return R.string.activity_lookup;
     }
 
     @Override
